@@ -1,7 +1,7 @@
 name: c.gl
 favicon: null
-layout_spectrum: 0.012290931073948741
-typography_spectrum: 0.5611859387718141
+layout_spectrum: 1
+typography_spectrum: 0.18758
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.3082463520113379
+    - '#1e1d23'
+    - '#797067'
+    - '#41454e'
+    - '#e3e3d7'
+    - '#9c9680'
+  brandStrength: 0.375
   lightness: 0.6771166538819671
   saturation: 0.894396506017074
   rhythmicContrast: 0.4489062207285315
